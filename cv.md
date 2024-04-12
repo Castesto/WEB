@@ -13,3 +13,9 @@ I am a student, being trained in programming languages such as C#, Python, JavaS
 **Computer Operator**
 - Worked for one day and gained skills in a dynamic environment.
 - Constantly had to enter data into their Excel counterpart and print price tags.
+
+- ## My Code Examples
+- **Python**
+  - TextToMySqlConverter
+- **C#**
+  - AuthApp
